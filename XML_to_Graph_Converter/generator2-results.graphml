@@ -1,0 +1,583 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="label" attr.type="string"/>
+<key id="d0" for="node" attr.name="data" attr.type="string"/>
+<graph edgedefault="undirected"><node id="n0">
+  <data key="d0">definition-page</data>
+</node>
+<node id="n1">
+  <data key="d0">term-group
+reference: National Institutes of Health, Office of Dietary Supplements 
+reference-url: 
+</data>
+</node>
+<node id="n2">
+  <data key="d0">term: 
+ &gt;Antioxidants 
+
+</data>
+</node>
+<node id="n3">
+  <data key="d0">definition: 
+ &gt;Antioxidants are substances that may prevent or delay some types of cell damage. Examples include beta-carotene, lutein, lycopene, selenium, and vitamins C and E. They are found in many foods, including fruits and vegetables. They are also available as dietary supplements. Most research has not shown antioxidant supplements to be helpful in preventing diseases. 
+
+</data>
+</node>
+<node id="n4">
+  <data key="d0">term-group
+reference: National Institutes of Health, Office of Dietary Supplements 
+reference-url: http://ods.od.nih.gov/factsheets/Calcium-Consumer/
+</data>
+</node>
+<node id="n5">
+  <data key="d0">term: 
+ &gt;Calcium 
+
+</data>
+</node>
+<node id="n6">
+  <data key="d0">definition: 
+ &gt;Calcium is a mineral found in many foods. Almost all calcium is stored in bones and teeth to help make and keep them strong. Your body needs calcium to help muscles and blood vessels contract and expand, and to send messages through the nervous system. Calcium is also used to help release hormones and enzymes that affect almost every function in the human body. 
+
+</data>
+</node>
+<node id="n7">
+  <data key="d0">term-group
+reference: National Institutes of Health, Office of Dietary Supplements 
+reference-url: http://ods.od.nih.gov/Health_Information/ODS_Frequently_Asked_Questions.aspx#RDAandDV
+</data>
+</node>
+<node id="n8">
+  <data key="d0">term: 
+ &gt;Daily Value (DV) 
+
+</data>
+</node>
+<node id="n9">
+  <data key="d0">definition: 
+ &gt;The Daily Value (DV) tells you what percentage of a nutrient one serving of that food or supplement provides compared to the recommended amount. 
+
+</data>
+</node>
+<node id="n10">
+  <data key="d0">term-group
+reference: National Institutes of Health, Office of Dietary Supplements
+reference-url: http://ods.od.nih.gov/factsheets/DietarySupplements-HealthProfessional/
+</data>
+</node>
+<node id="n11">
+  <data key="d0">term: 
+ &gt;Dietary Supplements 
+
+</data>
+</node>
+<node id="n12">
+  <data key="d0">definition: 
+ &gt;A dietary supplement is a product you take to supplement your diet. It contains one or more dietary ingredients (including vitamins; minerals; herbs or other botanicals; amino acids; and other substances). Supplements do not have to go through the testing that drugs do for effectiveness and safety. 
+
+</data>
+</node>
+<node id="n13">
+  <data key="d0">term-group
+reference: NIH MedlinePlus
+reference-url: https://medlineplus.gov/fluidandelectrolytebalance.html
+</data>
+</node>
+<node id="n14">
+  <data key="d0">term: 
+ &gt;Electrolytes 
+
+</data>
+</node>
+<node id="n15">
+  <data key="d0">definition: 
+ &gt;Electrolytes are minerals in body fluids. They include sodium, potassium, magnesium, and chloride. When you are dehydrated, your body does not have enough fluid and electrolytes. 
+
+</data>
+</node>
+<node id="n16">
+  <data key="d0">term-group
+reference: National Institutes of Health, Office of Dietary Supplements 
+reference-url: http://ods.od.nih.gov/factsheets/Iodine-Consumer/
+</data>
+</node>
+<node id="n17">
+  <data key="d0">term: 
+ &gt;Iodine 
+
+</data>
+</node>
+<node id="n18">
+  <data key="d0">definition: 
+ &gt;Iodine is a mineral found in some foods. Your body needs iodine to make thyroid hormones. These hormones control your body’s metabolism and other functions. They are also important for bone and brain development during pregnancy and infancy. 
+
+</data>
+</node>
+<node id="n19">
+  <data key="d0">term-group
+reference: National Institutes of Health, Office of Dietary Supplements 
+reference-url: https://ods.od.nih.gov/factsheets/Iron-Consumer/
+</data>
+</node>
+<node id="n20">
+  <data key="d0">term: 
+ &gt;Iron 
+
+</data>
+</node>
+<node id="n21">
+  <data key="d0">definition: 
+ &gt;Iron is a mineral. It is also added to some food products and is available as a dietary supplement. Iron is a part of hemoglobin, a protein that transports oxygen from the lungs to the tissues. It helps provide oxygen to muscles. Iron is important for cell growth, development, and normal body functions. Iron also helps the body make some hormones and connective tissue. 
+
+</data>
+</node>
+<node id="n22">
+  <data key="d0">term-group
+reference: National Institutes of Health, Office of Dietary Supplements 
+reference-url: http://ods.od.nih.gov/factsheets/Magnesium-Consumer/
+</data>
+</node>
+<node id="n23">
+  <data key="d0">term: 
+ &gt;Magnesium 
+
+</data>
+</node>
+<node id="n24">
+  <data key="d0">definition: 
+ &gt;Magnesium is a mineral naturally present in many foods, and is added to other food products. It is also available as a dietary supplement and present in some medicines. It helps your body regulate muscle and nerve function, blood sugar levels, and blood pressure. It also helps your body make protein, bone, and DNA. 
+
+</data>
+</node>
+<node id="n25">
+  <data key="d0">term-group
+reference: National Institutes of Health, Office of Dietary Supplements
+reference-url: 
+</data>
+</node>
+<node id="n26">
+  <data key="d0">term: 
+ &gt;Minerals 
+
+</data>
+</node>
+<node id="n27">
+  <data key="d0">definition: 
+ &gt;Minerals are those elements on the earth and in foods that our bodies need to develop and function normally. Those essential for health include calcium, phosphorus, potassium, sodium, chloride, magnesium, iron, zinc, iodine, chromium, copper, fluoride, molybdenum, manganese, and selenium. 
+
+</data>
+</node>
+<node id="n28">
+  <data key="d0">term-group
+reference: National Institutes of Health, Office of Dietary Supplements
+reference-url: http://ods.od.nih.gov/factsheets/MVMS-Consumer/
+</data>
+</node>
+<node id="n29">
+  <data key="d0">term: 
+ &gt;Multivitamin/Mineral Supplements 
+
+</data>
+</node>
+<node id="n30">
+  <data key="d0">definition: 
+ &gt;Multivitamin/mineral supplements contain a combination of vitamins and minerals. They sometimes have other ingredients, such as herbs. They are also called multis, multiples, or simply vitamins. Multis help people get the recommended amounts of vitamins and minerals when they cannot or do not get enough of these nutrients from food. 
+
+</data>
+</node>
+<node id="n31">
+  <data key="d0">term-group
+reference: National Institute of Diabetes and Digestive and Kidney Diseases
+reference-url: 
+</data>
+</node>
+<node id="n32">
+  <data key="d0">term: 
+ &gt;Phosphorus 
+
+</data>
+</node>
+<node id="n33">
+  <data key="d0">definition: 
+ &gt;Phosphorus is a mineral that helps keep your bones healthy. It also helps keep blood vessels and muscles working. Phosphorus is found naturally in foods rich in protein, such as meat, poultry, fish, nuts, beans, and dairy products. Phosphorus is also added to many processed foods. 
+
+</data>
+</node>
+<node id="n34">
+  <data key="d0">term-group
+reference: NIH MedlinePlus
+reference-url: https://medlineplus.gov/potassium.html
+</data>
+</node>
+<node id="n35">
+  <data key="d0">term: 
+ &gt;Potassium 
+
+</data>
+</node>
+<node id="n36">
+  <data key="d0">definition: 
+ &gt;Potassium is a mineral that your cells, nerves, and muscles need to function properly. It helps your body regulate your blood pressure, heart rhythm and the water content in cells. It also helps with digestion. Most people get all the potassium they need from what they eat and drink. It is also available as a dietary supplement. 
+
+</data>
+</node>
+<node id="n37">
+  <data key="d0">term-group
+reference: National Institutes of Health, Office of Dietary Supplements
+reference-url: http://ods.od.nih.gov/Health_Information/ODS_Frequently_Asked_Questions.aspx#RDAandDV
+</data>
+</node>
+<node id="n38">
+  <data key="d0">term: 
+ &gt;Recommended Dietary Allowance (RDA) 
+
+</data>
+</node>
+<node id="n39">
+  <data key="d0">definition: 
+ &gt;Recommended Dietary Allowance (RDA) is the amount of a nutrient you should get each day. There are different RDAs based on age, gender, and whether a woman is pregnant or breastfeeding. 
+
+</data>
+</node>
+<node id="n40">
+  <data key="d0">term-group
+reference: National Institutes of Health, Office of Dietary Supplements 
+reference-url: http://ods.od.nih.gov/factsheets/Selenium-Consumer/
+</data>
+</node>
+<node id="n41">
+  <data key="d0">term: 
+ &gt;Selenium 
+
+</data>
+</node>
+<node id="n42">
+  <data key="d0">definition: 
+ &gt;Selenium is a mineral that the body needs to stay healthy. It is important for reproduction, thyroid function, and DNA production. It also helps protect the body from damage caused by free radicals (unstable atoms or molecules that can damage cells) and infections. Selenium is present in many foods, and is sometimes added to other foods. It is also available as a dietary supplement. 
+
+</data>
+</node>
+<node id="n43">
+  <data key="d0">term-group
+reference: NIH MedlinePlus
+reference-url: https://medlineplus.gov/dietarysodium.html
+</data>
+</node>
+<node id="n44">
+  <data key="d0">term: 
+ &gt;Sodium 
+
+</data>
+</node>
+<node id="n45">
+  <data key="d0">definition: 
+ &gt;Table salt is made up of the elements sodium and chlorine - the technical name for salt is sodium chloride. Your body needs some sodium to work properly. It helps with the function of nerves and muscles. It also helps to keep the right balance of fluids in your body. 
+
+</data>
+</node>
+<node id="n46">
+  <data key="d0">term-group
+reference: National Institutes of Health, Office of Dietary Supplements
+reference-url: http://ods.od.nih.gov/factsheets/Zinc-Consumer/
+</data>
+</node>
+<node id="n47">
+  <data key="d0">term: 
+ &gt;Zinc 
+
+</data>
+</node>
+<node id="n48">
+  <data key="d0">definition: 
+ &gt;Zinc, a mineral that people need to stay healthy, is found in cells throughout the body. It helps the immune system fight off invading bacteria and viruses. The body also needs zinc to make proteins and DNA, the genetic material in all cells. During pregnancy, infancy, and childhood, the body needs zinc to grow and develop properly. Zinc also helps wounds heal and is important for our ability to taste and smell. Zinc is found in a wide variety of foods, and is found in most multivitamin/mineral supplements. 
+
+</data>
+</node>
+<edge source="n0" target="n1">
+  <data key="d1">term-group
+reference: National Institutes of Health, Office of Dietary Supplements 
+reference-url: 
+</data>
+</edge>
+<edge source="n0" target="n4">
+  <data key="d1">term-group
+reference: National Institutes of Health, Office of Dietary Supplements 
+reference-url: http://ods.od.nih.gov/factsheets/Calcium-Consumer/
+</data>
+</edge>
+<edge source="n0" target="n7">
+  <data key="d1">term-group
+reference: National Institutes of Health, Office of Dietary Supplements 
+reference-url: http://ods.od.nih.gov/Health_Information/ODS_Frequently_Asked_Questions.aspx#RDAandDV
+</data>
+</edge>
+<edge source="n0" target="n10">
+  <data key="d1">term-group
+reference: National Institutes of Health, Office of Dietary Supplements
+reference-url: http://ods.od.nih.gov/factsheets/DietarySupplements-HealthProfessional/
+</data>
+</edge>
+<edge source="n0" target="n13">
+  <data key="d1">term-group
+reference: NIH MedlinePlus
+reference-url: https://medlineplus.gov/fluidandelectrolytebalance.html
+</data>
+</edge>
+<edge source="n0" target="n16">
+  <data key="d1">term-group
+reference: National Institutes of Health, Office of Dietary Supplements 
+reference-url: http://ods.od.nih.gov/factsheets/Iodine-Consumer/
+</data>
+</edge>
+<edge source="n0" target="n19">
+  <data key="d1">term-group
+reference: National Institutes of Health, Office of Dietary Supplements 
+reference-url: https://ods.od.nih.gov/factsheets/Iron-Consumer/
+</data>
+</edge>
+<edge source="n0" target="n22">
+  <data key="d1">term-group
+reference: National Institutes of Health, Office of Dietary Supplements 
+reference-url: http://ods.od.nih.gov/factsheets/Magnesium-Consumer/
+</data>
+</edge>
+<edge source="n0" target="n25">
+  <data key="d1">term-group
+reference: National Institutes of Health, Office of Dietary Supplements
+reference-url: 
+</data>
+</edge>
+<edge source="n0" target="n28">
+  <data key="d1">term-group
+reference: National Institutes of Health, Office of Dietary Supplements
+reference-url: http://ods.od.nih.gov/factsheets/MVMS-Consumer/
+</data>
+</edge>
+<edge source="n0" target="n31">
+  <data key="d1">term-group
+reference: National Institute of Diabetes and Digestive and Kidney Diseases
+reference-url: 
+</data>
+</edge>
+<edge source="n0" target="n34">
+  <data key="d1">term-group
+reference: NIH MedlinePlus
+reference-url: https://medlineplus.gov/potassium.html
+</data>
+</edge>
+<edge source="n0" target="n37">
+  <data key="d1">term-group
+reference: National Institutes of Health, Office of Dietary Supplements
+reference-url: http://ods.od.nih.gov/Health_Information/ODS_Frequently_Asked_Questions.aspx#RDAandDV
+</data>
+</edge>
+<edge source="n0" target="n40">
+  <data key="d1">term-group
+reference: National Institutes of Health, Office of Dietary Supplements 
+reference-url: http://ods.od.nih.gov/factsheets/Selenium-Consumer/
+</data>
+</edge>
+<edge source="n0" target="n43">
+  <data key="d1">term-group
+reference: NIH MedlinePlus
+reference-url: https://medlineplus.gov/dietarysodium.html
+</data>
+</edge>
+<edge source="n0" target="n46">
+  <data key="d1">term-group
+reference: National Institutes of Health, Office of Dietary Supplements
+reference-url: http://ods.od.nih.gov/factsheets/Zinc-Consumer/
+</data>
+</edge>
+<edge source="n1" target="n2">
+  <data key="d1">term: 
+ &gt;Antioxidants 
+
+</data>
+</edge>
+<edge source="n1" target="n3">
+  <data key="d1">definition: 
+ &gt;Antioxidants are substances that may prevent or delay some types of cell damage. Examples include beta-carotene, lutein, lycopene, selenium, and vitamins C and E. They are found in many foods, including fruits and vegetables. They are also available as dietary supplements. Most research has not shown antioxidant supplements to be helpful in preventing diseases. 
+
+</data>
+</edge>
+<edge source="n4" target="n5">
+  <data key="d1">term: 
+ &gt;Calcium 
+
+</data>
+</edge>
+<edge source="n4" target="n6">
+  <data key="d1">definition: 
+ &gt;Calcium is a mineral found in many foods. Almost all calcium is stored in bones and teeth to help make and keep them strong. Your body needs calcium to help muscles and blood vessels contract and expand, and to send messages through the nervous system. Calcium is also used to help release hormones and enzymes that affect almost every function in the human body. 
+
+</data>
+</edge>
+<edge source="n7" target="n8">
+  <data key="d1">term: 
+ &gt;Daily Value (DV) 
+
+</data>
+</edge>
+<edge source="n7" target="n9">
+  <data key="d1">definition: 
+ &gt;The Daily Value (DV) tells you what percentage of a nutrient one serving of that food or supplement provides compared to the recommended amount. 
+
+</data>
+</edge>
+<edge source="n10" target="n11">
+  <data key="d1">term: 
+ &gt;Dietary Supplements 
+
+</data>
+</edge>
+<edge source="n10" target="n12">
+  <data key="d1">definition: 
+ &gt;A dietary supplement is a product you take to supplement your diet. It contains one or more dietary ingredients (including vitamins; minerals; herbs or other botanicals; amino acids; and other substances). Supplements do not have to go through the testing that drugs do for effectiveness and safety. 
+
+</data>
+</edge>
+<edge source="n13" target="n14">
+  <data key="d1">term: 
+ &gt;Electrolytes 
+
+</data>
+</edge>
+<edge source="n13" target="n15">
+  <data key="d1">definition: 
+ &gt;Electrolytes are minerals in body fluids. They include sodium, potassium, magnesium, and chloride. When you are dehydrated, your body does not have enough fluid and electrolytes. 
+
+</data>
+</edge>
+<edge source="n16" target="n17">
+  <data key="d1">term: 
+ &gt;Iodine 
+
+</data>
+</edge>
+<edge source="n16" target="n18">
+  <data key="d1">definition: 
+ &gt;Iodine is a mineral found in some foods. Your body needs iodine to make thyroid hormones. These hormones control your body’s metabolism and other functions. They are also important for bone and brain development during pregnancy and infancy. 
+
+</data>
+</edge>
+<edge source="n19" target="n20">
+  <data key="d1">term: 
+ &gt;Iron 
+
+</data>
+</edge>
+<edge source="n19" target="n21">
+  <data key="d1">definition: 
+ &gt;Iron is a mineral. It is also added to some food products and is available as a dietary supplement. Iron is a part of hemoglobin, a protein that transports oxygen from the lungs to the tissues. It helps provide oxygen to muscles. Iron is important for cell growth, development, and normal body functions. Iron also helps the body make some hormones and connective tissue. 
+
+</data>
+</edge>
+<edge source="n22" target="n23">
+  <data key="d1">term: 
+ &gt;Magnesium 
+
+</data>
+</edge>
+<edge source="n22" target="n24">
+  <data key="d1">definition: 
+ &gt;Magnesium is a mineral naturally present in many foods, and is added to other food products. It is also available as a dietary supplement and present in some medicines. It helps your body regulate muscle and nerve function, blood sugar levels, and blood pressure. It also helps your body make protein, bone, and DNA. 
+
+</data>
+</edge>
+<edge source="n25" target="n26">
+  <data key="d1">term: 
+ &gt;Minerals 
+
+</data>
+</edge>
+<edge source="n25" target="n27">
+  <data key="d1">definition: 
+ &gt;Minerals are those elements on the earth and in foods that our bodies need to develop and function normally. Those essential for health include calcium, phosphorus, potassium, sodium, chloride, magnesium, iron, zinc, iodine, chromium, copper, fluoride, molybdenum, manganese, and selenium. 
+
+</data>
+</edge>
+<edge source="n28" target="n29">
+  <data key="d1">term: 
+ &gt;Multivitamin/Mineral Supplements 
+
+</data>
+</edge>
+<edge source="n28" target="n30">
+  <data key="d1">definition: 
+ &gt;Multivitamin/mineral supplements contain a combination of vitamins and minerals. They sometimes have other ingredients, such as herbs. They are also called multis, multiples, or simply vitamins. Multis help people get the recommended amounts of vitamins and minerals when they cannot or do not get enough of these nutrients from food. 
+
+</data>
+</edge>
+<edge source="n31" target="n32">
+  <data key="d1">term: 
+ &gt;Phosphorus 
+
+</data>
+</edge>
+<edge source="n31" target="n33">
+  <data key="d1">definition: 
+ &gt;Phosphorus is a mineral that helps keep your bones healthy. It also helps keep blood vessels and muscles working. Phosphorus is found naturally in foods rich in protein, such as meat, poultry, fish, nuts, beans, and dairy products. Phosphorus is also added to many processed foods. 
+
+</data>
+</edge>
+<edge source="n34" target="n35">
+  <data key="d1">term: 
+ &gt;Potassium 
+
+</data>
+</edge>
+<edge source="n34" target="n36">
+  <data key="d1">definition: 
+ &gt;Potassium is a mineral that your cells, nerves, and muscles need to function properly. It helps your body regulate your blood pressure, heart rhythm and the water content in cells. It also helps with digestion. Most people get all the potassium they need from what they eat and drink. It is also available as a dietary supplement. 
+
+</data>
+</edge>
+<edge source="n37" target="n38">
+  <data key="d1">term: 
+ &gt;Recommended Dietary Allowance (RDA) 
+
+</data>
+</edge>
+<edge source="n37" target="n39">
+  <data key="d1">definition: 
+ &gt;Recommended Dietary Allowance (RDA) is the amount of a nutrient you should get each day. There are different RDAs based on age, gender, and whether a woman is pregnant or breastfeeding. 
+
+</data>
+</edge>
+<edge source="n40" target="n41">
+  <data key="d1">term: 
+ &gt;Selenium 
+
+</data>
+</edge>
+<edge source="n40" target="n42">
+  <data key="d1">definition: 
+ &gt;Selenium is a mineral that the body needs to stay healthy. It is important for reproduction, thyroid function, and DNA production. It also helps protect the body from damage caused by free radicals (unstable atoms or molecules that can damage cells) and infections. Selenium is present in many foods, and is sometimes added to other foods. It is also available as a dietary supplement. 
+
+</data>
+</edge>
+<edge source="n43" target="n44">
+  <data key="d1">term: 
+ &gt;Sodium 
+
+</data>
+</edge>
+<edge source="n43" target="n45">
+  <data key="d1">definition: 
+ &gt;Table salt is made up of the elements sodium and chlorine - the technical name for salt is sodium chloride. Your body needs some sodium to work properly. It helps with the function of nerves and muscles. It also helps to keep the right balance of fluids in your body. 
+
+</data>
+</edge>
+<edge source="n46" target="n47">
+  <data key="d1">term: 
+ &gt;Zinc 
+
+</data>
+</edge>
+<edge source="n46" target="n48">
+  <data key="d1">definition: 
+ &gt;Zinc, a mineral that people need to stay healthy, is found in cells throughout the body. It helps the immune system fight off invading bacteria and viruses. The body also needs zinc to make proteins and DNA, the genetic material in all cells. During pregnancy, infancy, and childhood, the body needs zinc to grow and develop properly. Zinc also helps wounds heal and is important for our ability to taste and smell. Zinc is found in a wide variety of foods, and is found in most multivitamin/mineral supplements. 
+
+</data>
+</edge>
+</graph></graphml>

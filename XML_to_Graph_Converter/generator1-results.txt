@@ -1,0 +1,165 @@
+{
+	"CATEGORIES": {
+		"CATEGORY": [
+			{
+				"DEFAULTWORKITEMTYPE": {
+					"_name": "Bug",
+					"__text": ""
+				},
+				"_name": "Bug Category",
+				"_refname": "Microsoft.BugCategory"
+			},		
+			{
+				"DEFAULTWORKITEMTYPE": {
+					"_name": "Epic",
+					"__text": ""
+				},
+				"_name": "Epic Category",
+				"_refname": "Microsoft.EpicCategory"
+			},		
+			{
+				"DEFAULTWORKITEMTYPE": {
+					"_name": "Feature",
+					"__text": ""
+				},
+				"_name": "Feature Category",
+				"_refname": "Microsoft.FeatureCategory"
+			},		
+			{
+				"DEFAULTWORKITEMTYPE": {
+					"_name": "Product Backlog Item",
+					"__text": ""
+				},			
+				"WORKITEMTYPE": {
+					"_name": "Bug",
+					"__text": ""
+				},
+				"_name": "Requirement Category",
+				"_refname": "Microsoft.RequirementCategory"
+			},		
+			{
+				"DEFAULTWORKITEMTYPE": {
+					"_name": "Test Case",
+					"__text": ""
+				},
+				"_name": "Test Case Category",
+				"_refname": "Microsoft.TestCaseCategory"
+			},		
+			{
+				"DEFAULTWORKITEMTYPE": {
+					"_name": "Shared Steps",
+					"__text": ""
+				},
+				"_name": "Shared Step Category",
+				"_refname": "Microsoft.SharedStepCategory"
+			},		
+			{
+				"DEFAULTWORKITEMTYPE": {
+					"_name": "Shared Parameter",
+					"__text": ""
+				},
+				"_name": "Shared Parameter Category",
+				"_refname": "Microsoft.SharedParameterCategory"
+			},		
+			{
+				"DEFAULTWORKITEMTYPE": {
+					"_name": "Code Review Request",
+					"__text": ""
+				},
+				"_name": "Code Review Request Category",
+				"_refname": "Microsoft.CodeReviewRequestCategory"
+			},		
+			{
+				"DEFAULTWORKITEMTYPE": {
+					"_name": "Code Review Response",
+					"__text": ""
+				},
+				"_name": "Code Review Response Category",
+				"_refname": "Microsoft.CodeReviewResponseCategory"
+			},		
+			{
+				"DEFAULTWORKITEMTYPE": {
+					"_name": "Feedback Request",
+					"__text": ""
+				},
+				"_name": "Feedback Request Category",
+				"_refname": "Microsoft.FeedbackRequestCategory"
+			},		
+			{
+				"DEFAULTWORKITEMTYPE": {
+					"_name": "Feedback Response",
+					"__text": ""
+				},
+				"_name": "Feedback Response Category",
+				"_refname": "Microsoft.FeedbackResponseCategory"
+			},		
+			{
+				"DEFAULTWORKITEMTYPE": {
+					"_name": "Test Plan",
+					"__text": ""
+				},
+				"_name": "Test Plan Category",
+				"_refname": "Microsoft.TestPlanCategory"
+			},		
+			{
+				"DEFAULTWORKITEMTYPE": {
+					"_name": "Test Suite",
+					"__text": ""
+				},
+				"_name": "Test Suite Category",
+				"_refname": "Microsoft.TestSuiteCategory"
+			},		
+			{
+				"DEFAULTWORKITEMTYPE": {
+					"_name": "Task",
+					"__text": ""
+				},
+				"_name": "Task Category",
+				"_refname": "Microsoft.TaskCategory"
+			},		
+			{
+				"DEFAULTWORKITEMTYPE": {
+					"_name": "Code Review Request",
+					"__text": ""
+				},			
+				{
+					"WORKITEMTYPE": {
+						"_name": "Code Review Response",
+						"__text": ""
+					}				},			
+				{
+					"WORKITEMTYPE": {
+						"_name": "Feedback Request",
+						"__text": ""
+					}				},			
+				{
+					"WORKITEMTYPE": {
+						"_name": "Feedback Response",
+						"__text": ""
+					}				},			
+				{
+					"WORKITEMTYPE": {
+						"_name": "Shared Steps",
+						"__text": ""
+					}				},			
+				{
+					"WORKITEMTYPE": {
+						"_name": "Shared Parameter",
+						"__text": ""
+					}				},			
+				{
+					"WORKITEMTYPE": {
+						"_name": "Test Plan",
+						"__text": ""
+					}				},			
+				{
+					"WORKITEMTYPE": {
+						"_name": "Test Suite",
+						"__text": ""
+					}				},
+				"_name": "Hidden Types Category",
+				"_refname": "Microsoft.HiddenCategory"
+			}
+		]
+	}
+}
